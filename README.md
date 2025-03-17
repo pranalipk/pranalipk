@@ -1,15 +1,15 @@
-## Hi there, I'm **Pranali Karande**! <\br>
+## Hi there, I'm **Pranali Karande**!
 
-### 🚀 About Me:<\br>
-- 🎓 **Background:** Statistics & Artificial Intelligence <\br>
-- 🤖 **Passionate About:** Data-Driven Decision Making | AI & Machine Learning | Business Intelligence  <\br>
-- 🏅 **Fun Fact:** I'm an **International Fencer** 🗡️ & a **National Medalist**!  <\br>
-- 🏆 **Awards:** INSPIRE Award Winner (Top 1% Students in State)  <\br>
+### 🚀 About Me:
+- 🎓 **Background:** Statistics & Artificial Intelligence
+- 🤖 **Passionate About:** Data-Driven Decision Making | AI & Machine Learning | Business Intelligence 
+- 🏅 **Fun Fact:** I'm an **International Fencer** 🗡️ & a **National Medalist**! 
+- 🏆 **Awards:** INSPIRE Award Winner (Top 1% Students in State)
 
-### 🌟 What I’m Up To: <\br>
-- Exploring **AI-driven business solutions**  <\br>
-- Building **data visualization & NLP models**  <\br>
-- Innovating with **MLOps & model deployment** <\br>
+### 🌟 What I’m Up To:
+- Exploring **AI-driven business solutions**  
+- Building **data visualization & NLP models**  
+- Innovating with **MLOps & model deployment** 
 
 
 ## 🌐 Socials:
